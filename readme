@@ -1,0 +1,3 @@
+This is a repository of scripts specifically to be run in Avidemux
+
+The respective scripts will run batch operations to upscale and repackage related video files from input directory and output 720p MP4 files.
