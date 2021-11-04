@@ -1,3 +1,8 @@
-This is a repository of scripts specifically to be run in Avidemux
+This is a repository of scripts specifically to be run in Avidemux.
 
 The respective scripts will run batch operations to upscale and repackage related video files from input directory and output 720p MP4 files.
+
+1) Open Avidemux
+2) Select File
+3) Project Script
+4) Run Project...
